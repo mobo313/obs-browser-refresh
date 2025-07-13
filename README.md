@@ -41,7 +41,6 @@ This is useful for reloading dashboards, overlays, widgets, or remote pages to e
 ## 📝 Notes
 
 - Only affects **browser sources**.
-- To refresh multiple sources, load this script multiple times under different names (e.g., `auto-refresh-1.lua`, `auto-refresh-2.lua`).
 - Works with both **local files** and **remote URLs** in browser sources.
 
 ---
