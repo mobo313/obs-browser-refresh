@@ -42,5 +42,3 @@ This is useful for reloading dashboards, overlays, widgets, or remote pages to e
 
 - Only affects **browser sources**.
 - Works with both **local files** and **remote URLs** in browser sources.
-
----
