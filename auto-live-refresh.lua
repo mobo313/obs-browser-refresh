@@ -5,7 +5,7 @@ local selected_source_name = ""
 function script_description()
     return [[
         <h2>Auto-Refresh Browser Source on Start Streaming</h2>
-        🔃 This script automatically refreshes the selected <i>Browser Source</i> whenever streaming starts.
+        🔄 This script automatically refreshes the selected <i>Browser Source</i> whenever streaming starts.
         Select the browser source from the dropdown menu:
     ]]
 end
